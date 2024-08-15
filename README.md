@@ -36,8 +36,3 @@ $ python app.py
 
 
 
-## Designed & Developed with :sparkling_heart: by
-* [Rahul Jain](https://rahuldkjain.github.io)
-* [Pratyush Garg](https://github.com/Pratyush2710)
-* [Somya Jain](https://github.com/jainsomya972)
-* [Abhay Gupta](https://github.com/abhaygupta5)
