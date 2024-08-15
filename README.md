@@ -34,8 +34,7 @@ $ python app.py
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(26).png)](https://github.com/rahuldkjain/Crop_Prediction)
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(27).png)](https://github.com/rahuldkjain/Crop_Prediction)
 
-## Video Demonstration
-[ApnaAnaaj](https://youtu.be/UahZf4VaCTE)
+
 
 ## Designed & Developed with :sparkling_heart: by
 * [Rahul Jain](https://rahuldkjain.github.io)
